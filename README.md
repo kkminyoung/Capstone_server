@@ -57,36 +57,8 @@
 - [5] E. Ilg, N. Mayer, T. Saikia, M. Keuper, A. Dosovitskiy, and T. Brox, “Flownet 2.0: Evolution of optical flow estimation with deep networks,” in CVPR, 2017. 
 - [6] R. Mur-Artal and J. D. Tardos, “Orb-slam2: An open-source slam ´ system for monocular, stereo, and rgb-d cameras,” T-RO, 2017. 
 
-## 4) 기술 블로그
-- 딥러닝 기술블로그 : 
-- 안드로이드 기술블로그1 :
-- 안드로이드 기술블로그2 : 
-- 백엔드 기술블로그 : 
 
-### 진행상황
-
-#### 안드로이드
-- [X] 인터페이스 구성  
-- [X] figma로 UI 구성  
-- [X] 회원가입/로그인 화면 구성 
-- [X] 메인 화면 구성         
-- [X] 영상 녹화 API 삽입
-- [X] 신고창 구현
-
-#### 딥러닝
-- [X] 문제정의 및 딥러닝 조사
-- [X] 데이터 추가수집
-- [X] 주차 중 모델 구축 및 검증
-- [X] API 배포
-
-#### 백엔드
-- [X] 데이터베이스 설계 및 구현
-- [X] flask + Mysql 연결 
-- [X] Rest API(안드로이드용)
-- [X] AWS 호스팅
-
-
-## 5) License
+## 4) License
 Code is under the [Apache Licence v2](https://github.com/kkminyoung/Capstone_model/blob/master/LICENSE)
 
 # 프로젝트 레파지토리 정리
