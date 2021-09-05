@@ -43,10 +43,11 @@
 
 
 ## 시연영상
-[![매직박스 시연영상](https://img.youtube.com/vi/Kn-Pr8kC0nc/0.jpg)](https://www.youtube.com/watch?v=Kn-Pr8kC0nc&feature=youtu.be)
+[![매직박스 시연영상](https://user-images.githubusercontent.com/61506233/132123784-73aa1dd1-2789-44df-8a08-45277cc74e2f.png)](https://www.youtube.com/watch?v=Kn-Pr8kC0nc&feature=youtu.be)
+
+link : https://www.youtube.com/watch?v=Kn-Pr8kC0nc&feature=youtu.be
 
 ![temp](https://user-images.githubusercontent.com/61506233/118226604-3f161900-b4c2-11eb-86bd-c919d5af8b86.gif)
-
 
 ## Reference
 - [1] Yao, Y., Xu, M., Wang, Y., Crandall, D.J., Atkins, "Unsupervised traffic accident detection in first-person videos", in IROS, 2019  
