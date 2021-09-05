@@ -60,8 +60,3 @@ link : https://www.youtube.com/watch?v=Kn-Pr8kC0nc&feature=youtu.be
 
 ## License
 Code is under the [Apache Licence v2](https://github.com/kkminyoung/Capstone_model/blob/master/LICENSE)
-
-# 프로젝트 레파지토리 정리
-- 안드로이드 repository : https://github.com/kkminyoung/Capstone_android
-- 딥러닝 & 서버 repository : https://github.com/Kim-Ha-Jeong/Capstone_server
-
